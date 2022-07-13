@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "jose": "^4.8.3",
+    "js-cookie": "^3.0.1",
     "sirv-cli": "^2.0.0",
     "svelte-session-manager": "^2.0.10"
   }
