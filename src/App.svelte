@@ -1,5 +1,4 @@
 <script>
-import { writable,readable } from 'svelte/store';
 import Cookies from 'js-cookie'
 const urlParams = new URLSearchParams(window.location.search);
 let passwd = urlParams.get('passwd');
